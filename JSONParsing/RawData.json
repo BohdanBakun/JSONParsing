@@ -1,0 +1,42 @@
+{
+    "count": 1,
+    "companyDescription": "Apple Inc.",
+    "listOfData": [
+        {
+            "name": "iPhone",
+            "modelNumber": "14 Pro Max",
+            "countries": ["US", "UK"],
+            "priceInfo": {
+                "regions": [
+                    {
+                        "name": "US",
+                        "price": 1199
+                    },
+                    {
+                        "name": "UK",
+                        "price": 1499
+                    }
+                ]
+            },
+            "year": 2022
+        },
+        {
+            "name": "MacBook",
+            "modelNumber": "Pro 14",
+            "countries": ["US", "UK"],
+            "priceInfo": {
+                "regions": [
+                    {
+                        "name": "US",
+                        "price": 1799
+                    },
+                    {
+                        "name": "UK",
+                        "price": 2199
+                    }
+                ]
+            },
+            "year": 2023
+        }
+    ]
+}
